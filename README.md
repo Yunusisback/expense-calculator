@@ -1,4 +1,4 @@
-roject Name: expense-calculator
+Project Name: expense-calculator
 
 
 Features ✨
